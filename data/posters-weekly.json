@@ -1,0 +1,260 @@
+{
+ "fetchedAt": "2026-11-24T19:15:58.865Z",
+ "combined": [
+  {
+   "week": "2026-06-29",
+   "distinctPosters": 1,
+   "tasks": 1
+  },
+  {
+   "week": "2026-07-06",
+   "distinctPosters": 3,
+   "tasks": 15
+  },
+  {
+   "week": "2026-07-13",
+   "distinctPosters": 8,
+   "tasks": 29
+  },
+  {
+   "week": "2026-07-20",
+   "distinctPosters": 14,
+   "tasks": 53
+  },
+  {
+   "week": "2026-07-27",
+   "distinctPosters": 6,
+   "tasks": 58
+  },
+  {
+   "week": "2026-08-03",
+   "distinctPosters": 12,
+   "tasks": 38
+  },
+  {
+   "week": "2026-08-10",
+   "distinctPosters": 8,
+   "tasks": 10
+  },
+  {
+   "week": "2026-08-17",
+   "distinctPosters": 8,
+   "tasks": 38
+  },
+  {
+   "week": "2026-08-24",
+   "distinctPosters": 8,
+   "tasks": 31
+  },
+  {
+   "week": "2026-08-31",
+   "distinctPosters": 6,
+   "tasks": 13
+  },
+  {
+   "week": "2026-09-07",
+   "distinctPosters": 4,
+   "tasks": 27
+  },
+  {
+   "week": "2026-09-14",
+   "distinctPosters": 7,
+   "tasks": 26
+  },
+  {
+   "week": "2026-09-21",
+   "distinctPosters": 5,
+   "tasks": 15
+  },
+  {
+   "week": "2026-09-28",
+   "distinctPosters": 7,
+   "tasks": 25
+  },
+  {
+   "week": "2026-10-05",
+   "distinctPosters": 7,
+   "tasks": 34
+  },
+  {
+   "week": "2026-10-12",
+   "distinctPosters": 6,
+   "tasks": 20
+  },
+  {
+   "week": "2026-10-19",
+   "distinctPosters": 7,
+   "tasks": 14
+  },
+  {
+   "week": "2026-10-26",
+   "distinctPosters": 115,
+   "tasks": 152
+  },
+  {
+   "week": "2026-11-02",
+   "distinctPosters": 82,
+   "tasks": 109
+  },
+  {
+   "week": "2026-11-09",
+   "distinctPosters": 8,
+   "tasks": 171
+  },
+  {
+   "week": "2026-11-16",
+   "distinctPosters": 29,
+   "tasks": 519
+  },
+  {
+   "week": "2026-11-23",
+   "distinctPosters": 16,
+   "tasks": 110
+  }
+ ],
+ "tempo": [
+  {
+   "week": "2026-10-19",
+   "distinctPosters": 2,
+   "tasks": 3
+  },
+  {
+   "week": "2026-10-26",
+   "distinctPosters": 5,
+   "tasks": 16
+  },
+  {
+   "week": "2026-11-02",
+   "distinctPosters": 8,
+   "tasks": 28
+  },
+  {
+   "week": "2026-11-09",
+   "distinctPosters": 5,
+   "tasks": 164
+  },
+  {
+   "week": "2026-11-16",
+   "distinctPosters": 22,
+   "tasks": 507
+  },
+  {
+   "week": "2026-11-23",
+   "distinctPosters": 15,
+   "tasks": 108
+  }
+ ],
+ "base": [
+  {
+   "week": "2026-06-29",
+   "distinctPosters": 1,
+   "tasks": 1
+  },
+  {
+   "week": "2026-07-06",
+   "distinctPosters": 3,
+   "tasks": 15
+  },
+  {
+   "week": "2026-07-13",
+   "distinctPosters": 8,
+   "tasks": 29
+  },
+  {
+   "week": "2026-07-20",
+   "distinctPosters": 14,
+   "tasks": 53
+  },
+  {
+   "week": "2026-07-27",
+   "distinctPosters": 6,
+   "tasks": 58
+  },
+  {
+   "week": "2026-08-03",
+   "distinctPosters": 12,
+   "tasks": 38
+  },
+  {
+   "week": "2026-08-10",
+   "distinctPosters": 8,
+   "tasks": 10
+  },
+  {
+   "week": "2026-08-17",
+   "distinctPosters": 8,
+   "tasks": 38
+  },
+  {
+   "week": "2026-08-24",
+   "distinctPosters": 8,
+   "tasks": 31
+  },
+  {
+   "week": "2026-08-31",
+   "distinctPosters": 6,
+   "tasks": 13
+  },
+  {
+   "week": "2026-09-07",
+   "distinctPosters": 4,
+   "tasks": 27
+  },
+  {
+   "week": "2026-09-14",
+   "distinctPosters": 7,
+   "tasks": 26
+  },
+  {
+   "week": "2026-09-21",
+   "distinctPosters": 5,
+   "tasks": 15
+  },
+  {
+   "week": "2026-09-28",
+   "distinctPosters": 7,
+   "tasks": 25
+  },
+  {
+   "week": "2026-10-05",
+   "distinctPosters": 7,
+   "tasks": 34
+  },
+  {
+   "week": "2026-10-12",
+   "distinctPosters": 6,
+   "tasks": 20
+  },
+  {
+   "week": "2026-10-19",
+   "distinctPosters": 6,
+   "tasks": 11
+  },
+  {
+   "week": "2026-10-26",
+   "distinctPosters": 111,
+   "tasks": 136
+  },
+  {
+   "week": "2026-11-02",
+   "distinctPosters": 74,
+   "tasks": 81
+  },
+  {
+   "week": "2026-11-09",
+   "distinctPosters": 3,
+   "tasks": 7
+  },
+  {
+   "week": "2026-11-16",
+   "distinctPosters": 7,
+   "tasks": 12
+  },
+  {
+   "week": "2026-11-23",
+   "distinctPosters": 2,
+   "tasks": 2
+  }
+ ],
+ "method": "Distinct requester wallet addresses grouped by ISO week (Monday) of task createdAt, from paginated /api/tasks for both chains, deduplicated by task id."
+}

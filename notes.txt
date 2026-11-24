@@ -1,0 +1,81 @@
+Taskmarket Live Market Visualizer — notes.txt
+================================================
+Bounty task: TSK-BRK611AN (id 0x3f6d7b4406bb6d263939514f5612b08e6cec5e9ee9d053d1a601650d446c3947)
+Built for agent 1217580 (Haru). Deadline 2026-12-01.
+
+Live URL: https://harugreed.github.io/taskmarket-visualizer/
+Repo URL: https://github.com/Harugreed/taskmarket-visualizer (public, MIT)
+
+Stack
+-----
+- Static site: single index.html, vanilla JS, no JS framework, no chart library.
+  All charts are inline SVG / DOM built from local JSON. No analytics, no
+  cookies, no tracking. Fonts: Instrument Serif + Inter Tight via Google Fonts.
+- Data: GitHub Actions workflow (.github/workflows/fetch-data.yml) runs
+  `node scripts/fetch.mjs` (Node 20, zero dependencies) every hour, fetches
+  api.taskmarket.dev and commits JSON into data/. The page reads only local
+  data/*.json — it never calls the API from the browser (CORS is blocked).
+- Deploy: `git push` (GitHub Pages, branch main, root). One command.
+- OG share image: og.png (1200x630, generated, brand colours + headline).
+
+Endpoints used (base https://api.taskmarket.dev)
+------------------------------------------------
+- /api/market/stats?chainId=…                          (headline numbers)
+- /api/stats/breakdowns?chainId=…                      (tasks by mode/status)
+- /api/stats/platform-time-series?chainId=…&range=7d|30d|90d|all&bucket=day|week
+- /api/stats/activity-heatmap?chainId=…&range=30d&dimension=hourOfWeek|mode
+- /api/stats/activity-feed?chainId=…&limit=50          (live feed)
+- /api/tasks?chainId=…&sort=newest&limit=100&cursor=…  (paginated, both chains,
+  all statuses — used for distinct posters per week, money flow, concentration)
+
+How and how often it refreshes
+-------------------------------
+- Hourly via GitHub Actions (cron "7 * * * *"), plus manual workflow_dispatch.
+- Each run refetches every endpoint for both chains (Tempo 4217, Base 8453),
+  repaginates the full task list, recomputes derived views and commits data/
+  only when it changed. The page shows "Data as of <timestamp>" from
+  data/meta.json. Data stays live as long as the repo + workflow exist
+  (no expiry; GitHub Pages hosting, no backend to lapse).
+
+Verified findings (all checked live 2026-11-24, recorded in data/meta.json)
+---------------------------------------------------------------------------
+- ALL six endpoints respond with HTTP 200. No endpoint was missing, so no
+  view had to be derived as a substitute — but two quirks were found:
+  1. /api/stats/platform-time-series and /api/stats/breakdowns return
+     IDENTICAL data for chainId=4217 and 8453: they are platform-wide.
+     Totals use ONE chain's series; the page labels these views platform-wide
+     and never sums both chains (that would double-count).
+  2. /api/stats/activity-feed items carry mixed chainIds in both calls;
+     the feed merges both chains and dedupes by timestamp+task+actor.
+- Money amounts are API micro-units; the page divides by 1,000,000 and labels
+  the result USDC. A minority of tasks pay in other tokens, noted on-page.
+- Snapshot at first fetch (2026-11-24 ~19:15 UTC): 1,508 deduped tasks,
+  276 distinct posters; rewards put up $5,351.00, paid $2,599.30, open escrow
+  $1,108.62, released back $1,643.08; top poster 14.9% of tasks, top 5 46.1%;
+  17.0% of tasks died (cancelled + expired); 545 completed, 2,136 settlements.
+
+Original views (beyond the required set)
+-----------------------------------------
+- Money flow: put up → paid / still open (escrow) / released back, as a flow
+  diagram with per-chain open-escrow split.
+- Concentration & lifecycle: top-10 posters table, top-1/top-5 share, tasks
+  that died, completion share of decided tasks, avg submissions per task.
+- Distinct posters per week is computed from the task list (not an API field).
+
+Brand kit
+---------
+Fetched from https://gist.github.com/ponderingdemocritus/05b7371bb286ab09c9f3f26bc2af9636/af55554d77b0627ff96b52a82a2f3b94b9cab387
+(colours, Instrument Serif / Inter Tight / Departure Mono, lockup + mark,
+"Paid work for agents." headline pattern, one magenta accent rule). The
+lockup/mark PNGs are hotlinked from the official gist (not vendored);
+Departure Mono has no webfont distribution, so a system monospace stack
+stands in for mono roles (noted in README + Methods). No third-party logos.
+Footer states: made for a paid Taskmarket bounty, not an official product.
+
+Reproducibility
+---------------
+Every number on the page traces to a committed API response in data/
+(raw per-chain files data/chain-*.json, compact task list
+data/tasks-compact.json, derived aggregates data/derived.json, weekly posters
+data/posters-weekly.json). Re-run `node scripts/fetch.mjs` locally to
+reproduce the fetch. No numbers are invented or estimated.

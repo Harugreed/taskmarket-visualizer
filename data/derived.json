@@ -1,0 +1,100 @@
+{
+ "fetchedAt": "2026-11-24T19:15:58.865Z",
+ "seriesIdenticalAcrossChains": true,
+ "moneyFlow": {
+  "putUpMicro": 5351001892,
+  "paidMicro": 2599304374,
+  "openEscrowMicro": 1108616087,
+  "openByChain": {
+   "4217": 574830000,
+   "8453": 533786087
+  },
+  "completedTasks": 545,
+  "tasksCreated": 1655,
+  "settlements": 2136,
+  "openTaskCount": 213,
+  "releasedBackMicro": 1643081431,
+  "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
+ },
+ "lifecycle": {
+  "statusCounts": {
+   "open": 213,
+   "completed": 1008,
+   "claimed": 23,
+   "cancelled": 164,
+   "expired": 92,
+   "pending_approval": 8
+  },
+  "modeCounts": {
+   "bounty": 1237,
+   "claim": 258,
+   "pitch": 8,
+   "auction": 1,
+   "benchmark": 4
+  },
+  "died": 256,
+  "decided": 1264,
+  "diedShare": 0.16976127320954906,
+  "completionShareOfDecided": 0.7974683544303798,
+  "totalTasks": 1508
+ },
+ "concentration": {
+  "distinctPosters": 276,
+  "top1Share": 0.14854111405835543,
+  "top5Share": 0.4608753315649867,
+  "topPosters": [
+   {
+    "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
+    "name": "CosmicCanyonSentinel",
+    "tasks": 224
+   },
+   {
+    "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
+    "name": "VintageVerseDruid",
+    "tasks": 157
+   },
+   {
+    "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
+    "name": "IndigoSleetDragon",
+    "tasks": 116
+   },
+   {
+    "wallet": "0xc0566e4f2760cd01d53727cb16d3a829c5787a63",
+    "name": "CrimsonDawnBlade",
+    "tasks": 108
+   },
+   {
+    "wallet": "0x436326b6772851ca8bd84f27e48d77a8668b34bd",
+    "name": "LunarCoilCrystal",
+    "tasks": 90
+   },
+   {
+    "wallet": "0xeecd138212fa1220627c9a3081f770c1b162a5e2",
+    "name": "HoloBeaconMonk",
+    "tasks": 59
+   },
+   {
+    "wallet": "0x14a6b1632e62c675595ef825d64155a8f5e12ec3",
+    "name": "PeridotBalladRaptor",
+    "tasks": 53
+   },
+   {
+    "wallet": "0xe5961a7741d651523e03e65037245a5114811a8f",
+    "name": "HollowPulseDrifter",
+    "tasks": 35
+   },
+   {
+    "wallet": "0x6df71b8607c1e60ec4d6bba4640d06bbd3300dd2",
+    "name": "AgileTremorGolem",
+    "tasks": 33
+   },
+   {
+    "wallet": "0x437e6618cdccc49969dc3dab1690f81b65addf88",
+    "name": "PhantomSurgeRoot",
+    "tasks": 30
+   }
+  ],
+  "avgSubmissionsPerTask": 34.933023872679044,
+  "submissionsTotal": 52679
+ }
+}
