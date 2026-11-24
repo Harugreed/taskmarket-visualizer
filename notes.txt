@@ -11,10 +11,16 @@ Stack
 - Static site: single index.html, vanilla JS, no JS framework, no chart library.
   All charts are inline SVG / DOM built from local JSON. No analytics, no
   cookies, no tracking. Fonts: Instrument Serif + Inter Tight via Google Fonts.
-- Data: GitHub Actions workflow (.github/workflows/fetch-data.yml) runs
-  `node scripts/fetch.mjs` (Node 20, zero dependencies) every hour, fetches
-  api.taskmarket.dev and commits JSON into data/. The page reads only local
-  data/*.json — it never calls the API from the browser (CORS is blocked).
+- Data: an hourly scheduled job on the builder's server runs
+  `node scripts/fetch.mjs` (Node 20, zero dependencies) — see
+  `visualizer-refresh.sh` — fetches api.taskmarket.dev and commits JSON
+  into data/ when it changes, then pushes (GitHub Pages rebuilds). The
+  page reads only local data/*.json — it never calls the API from the
+  browser (CORS is blocked). A GitHub Actions workflow doing the same job
+  ships as docs/github-actions-workflow.yml (copy it to
+  .github/workflows/ to self-host on Actions; it could not be pushed
+  under .github/ from this machine because the token lacks `workflow`
+  scope — the content is identical).
 - Deploy: `git push` (GitHub Pages, branch main, root). One command.
 - OG share image: og.png (1200x630, generated, brand colours + headline).
 
@@ -30,8 +36,10 @@ Endpoints used (base https://api.taskmarket.dev)
 
 How and how often it refreshes
 -------------------------------
-- Hourly via GitHub Actions (cron "7 * * * *"), plus manual workflow_dispatch.
-- Each run refetches every endpoint for both chains (Tempo 4217, Base 8453),
+- Hourly via a scheduled job on the builder's server (fetch + commit +
+  push, same script the Actions workflow runs), plus manual re-runs.
+  The GitHub Actions equivalent ships as docs/github-actions-workflow.yml
+  for self-hosting. Each run refetches every endpoint for both chains (Tempo 4217, Base 8453),
   repaginates the full task list, recomputes derived views and commits data/
   only when it changed. The page shows "Data as of <timestamp>" from
   data/meta.json. Data stays live as long as the repo + workflow exist
