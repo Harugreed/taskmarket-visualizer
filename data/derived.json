@@ -1,52 +1,52 @@
 {
- "fetchedAt": "2026-11-24T21:23:36.952Z",
+ "fetchedAt": "2026-11-24T22:23:39.319Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5357001892,
-  "paidMicro": 2743804374,
-  "openEscrowMicro": 930116087,
+  "putUpMicro": 5366501892,
+  "paidMicro": 2753554374,
+  "openEscrowMicro": 929866087,
   "openByChain": {
-   "4217": 436330000,
+   "4217": 436080000,
    "8453": 493786087
   },
   "completedTasks": 545,
-  "tasksCreated": 1656,
-  "settlements": 2190,
-  "openTaskCount": 190,
+  "tasksCreated": 1671,
+  "settlements": 2208,
+  "openTaskCount": 187,
   "releasedBackMicro": 1683081431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 190,
-   "completed": 1031,
+   "open": 187,
+   "completed": 1049,
    "claimed": 23,
    "cancelled": 164,
    "expired": 92,
    "pending_approval": 9
   },
   "modeCounts": {
-   "bounty": 1238,
+   "bounty": 1253,
    "claim": 258,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 256,
-  "decided": 1287,
-  "diedShare": 0.16964877402253148,
-  "completionShareOfDecided": 0.8010878010878011,
-  "totalTasks": 1509
+  "decided": 1305,
+  "diedShare": 0.1679790026246719,
+  "completionShareOfDecided": 0.803831417624521,
+  "totalTasks": 1524
  },
  "concentration": {
   "distinctPosters": 276,
-  "top1Share": 0.14844267726971505,
-  "top5Share": 0.46056991385023194,
+  "top1Share": 0.1568241469816273,
+  "top5Share": 0.4658792650918635,
   "topPosters": [
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
     "name": "CosmicCanyonSentinel",
-    "tasks": 224
+    "tasks": 239
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -94,7 +94,7 @@
     "tasks": 30
    }
   ],
-  "avgSubmissionsPerTask": 35.02319416832339,
-  "submissionsTotal": 52850
+  "avgSubmissionsPerTask": 34.768372703412076,
+  "submissionsTotal": 52987
  }
 }
