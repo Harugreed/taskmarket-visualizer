@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-24T19:15:58.865Z",
+ "fetchedAt": "2026-11-24T19:30:25.436Z",
  "count": 1508,
  "tasks": [
   {
@@ -13,7 +13,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 24,
+   "submissions": 30,
    "awards": 0,
    "claimedBy": null
   },
@@ -28,7 +28,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "50000000",
-   "submissions": 0,
+   "submissions": 6,
    "awards": 0,
    "claimedBy": null
   },
@@ -43,7 +43,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 20,
+   "submissions": 21,
    "awards": 0,
    "claimedBy": null
   },
@@ -58,7 +58,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "4000000",
-   "submissions": 14,
+   "submissions": 16,
    "awards": 0,
    "claimedBy": null
   },
@@ -403,7 +403,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 29,
+   "submissions": 31,
    "awards": 0,
    "claimedBy": null
   },
@@ -565,11 +565,11 @@
    "requesterName": "CosmicCanyonSentinel",
    "createdAt": "2026-11-24T05:01:37.087Z",
    "expiryTime": "2026-12-01T05:01:35.255Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "4000000",
    "submissions": 25,
-   "awards": 0,
+   "awards": 1,
    "claimedBy": null
   },
   {

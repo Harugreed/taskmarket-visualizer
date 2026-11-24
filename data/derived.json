@@ -1,25 +1,25 @@
 {
- "fetchedAt": "2026-11-24T19:15:58.865Z",
+ "fetchedAt": "2026-11-24T19:30:25.436Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
   "putUpMicro": 5351001892,
-  "paidMicro": 2599304374,
-  "openEscrowMicro": 1108616087,
+  "paidMicro": 2603304374,
+  "openEscrowMicro": 1104616087,
   "openByChain": {
-   "4217": 574830000,
+   "4217": 570830000,
    "8453": 533786087
   },
   "completedTasks": 545,
   "tasksCreated": 1655,
-  "settlements": 2136,
-  "openTaskCount": 213,
+  "settlements": 2137,
+  "openTaskCount": 212,
   "releasedBackMicro": 1643081431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 213,
-   "completed": 1008,
+   "open": 212,
+   "completed": 1009,
    "claimed": 23,
    "cancelled": 164,
    "expired": 92,
@@ -33,9 +33,9 @@
    "benchmark": 4
   },
   "died": 256,
-  "decided": 1264,
+  "decided": 1265,
   "diedShare": 0.16976127320954906,
-  "completionShareOfDecided": 0.7974683544303798,
+  "completionShareOfDecided": 0.7976284584980237,
   "totalTasks": 1508
  },
  "concentration": {
@@ -94,7 +94,7 @@
     "tasks": 30
    }
   ],
-  "avgSubmissionsPerTask": 34.933023872679044,
-  "submissionsTotal": 52679
+  "avgSubmissionsPerTask": 34.94429708222812,
+  "submissionsTotal": 52696
  }
 }
