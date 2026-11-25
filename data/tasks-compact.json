@@ -1,7 +1,22 @@
 {
- "fetchedAt": "2026-11-25T05:23:36.649Z",
- "count": 1550,
+ "fetchedAt": "2026-11-25T06:23:38.160Z",
+ "count": 1551,
  "tasks": [
+  {
+   "id": "0xcd2c9d57d36a17de7c5e51f469cad4891ef0a9f5a2c7f5397c726cd0830ecaf6",
+   "chainId": 4217,
+   "ref": "TSK-B0QTHHPD",
+   "requester": "0xcad227d6D7E60bF7b207886819972fF506b5fEed",
+   "requesterName": "ScarletNebulaKnight",
+   "createdAt": "2026-11-25T06:11:21.096Z",
+   "expiryTime": "2026-11-25T12:11:18.648Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "6000000",
+   "submissions": 40,
+   "awards": 0,
+   "claimedBy": null
+  },
   {
    "id": "0xead4ab6c92b4abb2e2888172783950b62d878d73970d209d47684d9f15e28206",
    "chainId": 4217,
@@ -55,11 +70,11 @@
    "requesterName": "ScarletNebulaKnight",
    "createdAt": "2026-11-25T00:10:43.736Z",
    "expiryTime": "2026-11-25T06:10:41.699Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "6000000",
    "submissions": 49,
-   "awards": 0,
+   "awards": 30,
    "claimedBy": null
   },
   {
@@ -658,7 +673,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "50000000",
-   "submissions": 50,
+   "submissions": 51,
    "awards": 0,
    "claimedBy": null
   },
@@ -778,7 +793,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "9000000",
-   "submissions": 95,
+   "submissions": 99,
    "awards": 0,
    "claimedBy": null
   },
@@ -13048,7 +13063,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "9000000",
-   "submissions": 98,
+   "submissions": 99,
    "awards": 0,
    "claimedBy": null
   },

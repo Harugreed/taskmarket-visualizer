@@ -1,47 +1,47 @@
 {
- "fetchedAt": "2026-11-25T05:23:36.649Z",
+ "fetchedAt": "2026-11-25T06:23:38.160Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5398451892,
-  "paidMicro": 2792004374,
+  "putUpMicro": 5404451892,
+  "paidMicro": 2798004374,
   "openEscrowMicro": 921616087,
   "openByChain": {
    "4217": 427830000,
    "8453": 493786087
   },
   "completedTasks": 545,
-  "tasksCreated": 1697,
-  "settlements": 2306,
+  "tasksCreated": 1698,
+  "settlements": 2336,
   "openTaskCount": 177,
   "releasedBackMicro": 1684831431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "completed": 1083,
    "open": 177,
+   "completed": 1084,
    "cancelled": 166,
    "claimed": 23,
    "expired": 92,
    "pending_approval": 9
   },
   "modeCounts": {
-   "bounty": 1278,
+   "bounty": 1279,
    "claim": 259,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1341,
-  "diedShare": 0.1664516129032258,
-  "completionShareOfDecided": 0.8076062639821029,
-  "totalTasks": 1550
+  "decided": 1342,
+  "diedShare": 0.16634429400386846,
+  "completionShareOfDecided": 0.8077496274217586,
+  "totalTasks": 1551
  },
  "concentration": {
   "distinctPosters": 277,
-  "top1Share": 0.16838709677419356,
-  "top5Share": 0.472258064516129,
+  "top1Share": 0.16827852998065765,
+  "top5Share": 0.47195357833655704,
   "topPosters": [
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
@@ -91,10 +91,10 @@
    {
     "wallet": "0xcad227d6d7e60bf7b207886819972ff506b5feed",
     "name": "ScarletNebulaKnight",
-    "tasks": 31
+    "tasks": 32
    }
   ],
-  "avgSubmissionsPerTask": 34.43677419354839,
-  "submissionsTotal": 53377
+  "avgSubmissionsPerTask": 34.444229529335914,
+  "submissionsTotal": 53423
  }
 }
