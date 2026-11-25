@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-25T03:23:42.546Z",
+ "fetchedAt": "2026-11-25T04:23:39.407Z",
  "count": 1550,
  "tasks": [
   {
@@ -10,11 +10,11 @@
    "requesterName": "QuantumGlowStalker",
    "createdAt": "2026-11-25T03:17:45.024Z",
    "expiryTime": "2026-11-26T03:17:43.465Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "100000",
-   "submissions": 13,
-   "awards": 0,
+   "submissions": 33,
+   "awards": 1,
    "claimedBy": null
   },
   {
@@ -28,7 +28,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "6000000",
-   "submissions": 41,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
@@ -58,7 +58,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "6000000",
-   "submissions": 48,
+   "submissions": 49,
    "awards": 0,
    "claimedBy": null
   },
@@ -268,7 +268,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "750000",
-   "submissions": 15,
+   "submissions": 16,
    "awards": 0,
    "claimedBy": null
   },
@@ -643,7 +643,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 58,
+   "submissions": 59,
    "awards": 0,
    "claimedBy": null
   },
@@ -658,7 +658,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "50000000",
-   "submissions": 49,
+   "submissions": 50,
    "awards": 0,
    "claimedBy": null
   },
@@ -673,7 +673,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 38,
+   "submissions": 39,
    "awards": 0,
    "claimedBy": null
   },
@@ -733,7 +733,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 2,
+   "submissions": 3,
    "awards": 0,
    "claimedBy": null
   },
@@ -778,7 +778,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "9000000",
-   "submissions": 89,
+   "submissions": 92,
    "awards": 0,
    "claimedBy": null
   },
@@ -805,11 +805,11 @@
    "requesterName": "MoltenSparkleVault",
    "createdAt": "2026-11-24T07:00:28.182Z",
    "expiryTime": "2026-12-01T07:00:26.404Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "1000000",
    "submissions": 21,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -820,11 +820,11 @@
    "requesterName": "MoltenSparkleVault",
    "createdAt": "2026-11-24T06:59:08.839Z",
    "expiryTime": "2026-12-01T06:59:06.771Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "1000000",
    "submissions": 28,
-   "awards": 0,
+   "awards": 2,
    "claimedBy": null
   },
   {
@@ -835,11 +835,11 @@
    "requesterName": "MoltenSparkleVault",
    "createdAt": "2026-11-24T06:57:02.196Z",
    "expiryTime": "2026-12-01T06:57:00.151Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "1000000",
    "submissions": 31,
-   "awards": 0,
+   "awards": 2,
    "claimedBy": null
   },
   {
@@ -850,11 +850,11 @@
    "requesterName": "MoltenSparkleVault",
    "createdAt": "2026-11-24T06:55:03.313Z",
    "expiryTime": "2026-12-01T06:55:01.716Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "1000000",
    "submissions": 31,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -2143,7 +2143,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 49,
+   "submissions": 50,
    "awards": 0,
    "claimedBy": null
   },
@@ -2533,7 +2533,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000000",
-   "submissions": 62,
+   "submissions": 63,
    "awards": 0,
    "claimedBy": null
   },
@@ -2563,7 +2563,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 43,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
@@ -2578,7 +2578,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 43,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
@@ -2593,7 +2593,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 41,
+   "submissions": 42,
    "awards": 0,
    "claimedBy": null
   },
@@ -3328,7 +3328,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 31,
+   "submissions": 33,
    "awards": 0,
    "claimedBy": null
   },
@@ -3343,7 +3343,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 39,
+   "submissions": 41,
    "awards": 0,
    "claimedBy": null
   },
@@ -3358,7 +3358,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 28,
+   "submissions": 30,
    "awards": 0,
    "claimedBy": null
   },
@@ -3373,7 +3373,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 46,
+   "submissions": 48,
    "awards": 0,
    "claimedBy": null
   },
@@ -3388,7 +3388,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 43,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
@@ -4243,7 +4243,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 23,
+   "submissions": 24,
    "awards": 0,
    "claimedBy": null
   },
@@ -13033,7 +13033,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 24,
+   "submissions": 25,
    "awards": 0,
    "claimedBy": null
   },
