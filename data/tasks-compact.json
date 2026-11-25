@@ -1,7 +1,22 @@
 {
- "fetchedAt": "2026-11-25T17:23:38.279Z",
- "count": 1561,
+ "fetchedAt": "2026-11-25T18:23:36.226Z",
+ "count": 1562,
  "tasks": [
+  {
+   "id": "0xb2da965298589c5f1cfbd5e6547e9c521765f7480cbbdd8b7831e07872c3a415",
+   "chainId": 4217,
+   "ref": "TSK-AXRZT6TJ",
+   "requester": "0xa23bbE7A6645C68F1401958Fb74e7851780932B9",
+   "requesterName": "SiriusStaticOracle",
+   "createdAt": "2026-11-25T17:30:37.394Z",
+   "expiryTime": "2026-11-26T17:30:35.713Z",
+   "status": "completed",
+   "mode": "bounty",
+   "reward": "5000",
+   "submissions": 10,
+   "awards": 1,
+   "claimedBy": null
+  },
   {
    "id": "0x916c9e324ea6840cf008ff28e67f89c20bedd6966a9f106f29a9c22e8232d6a3",
    "chainId": 4217,
@@ -2158,7 +2173,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000000",
-   "submissions": 65,
+   "submissions": 66,
    "awards": 0,
    "claimedBy": null
   },
@@ -3493,7 +3508,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 39,
+   "submissions": 40,
    "awards": 0,
    "claimedBy": null
   },
@@ -3508,7 +3523,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 46,
+   "submissions": 48,
    "awards": 0,
    "claimedBy": null
   },
@@ -3523,7 +3538,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 35,
+   "submissions": 36,
    "awards": 0,
    "claimedBy": null
   },
