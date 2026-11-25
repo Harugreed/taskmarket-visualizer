@@ -1,52 +1,52 @@
 {
- "fetchedAt": "2026-11-24T23:23:40.105Z",
+ "fetchedAt": "2026-11-25T00:23:38.251Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5381501892,
-  "paidMicro": 2770304374,
-  "openEscrowMicro": 928116087,
+  "putUpMicro": 5392251892,
+  "paidMicro": 2781804374,
+  "openEscrowMicro": 925616087,
   "openByChain": {
-   "4217": 434330000,
+   "4217": 431830000,
    "8453": 493786087
   },
   "completedTasks": 545,
-  "tasksCreated": 1687,
-  "settlements": 2229,
-  "openTaskCount": 182,
-  "releasedBackMicro": 1683081431,
+  "tasksCreated": 1694,
+  "settlements": 2264,
+  "openTaskCount": 181,
+  "releasedBackMicro": 1684831431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 182,
-   "completed": 1070,
+   "open": 181,
+   "cancelled": 166,
+   "completed": 1076,
    "claimed": 23,
-   "cancelled": 164,
    "expired": 92,
    "pending_approval": 9
   },
   "modeCounts": {
-   "bounty": 1269,
+   "bounty": 1276,
    "claim": 258,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
-  "died": 256,
-  "decided": 1326,
-  "diedShare": 0.16623376623376623,
-  "completionShareOfDecided": 0.8069381598793364,
-  "totalTasks": 1540
+  "died": 258,
+  "decided": 1334,
+  "diedShare": 0.1667744020685197,
+  "completionShareOfDecided": 0.8065967016491754,
+  "totalTasks": 1547
  },
  "concentration": {
   "distinctPosters": 276,
-  "top1Share": 0.16558441558441558,
-  "top5Share": 0.4714285714285714,
+  "top1Share": 0.1687136393018746,
+  "top5Share": 0.4731738849385908,
   "topPosters": [
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
     "name": "CosmicCanyonSentinel",
-    "tasks": 255
+    "tasks": 261
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -89,12 +89,12 @@
     "tasks": 33
    },
    {
-    "wallet": "0x437e6618cdccc49969dc3dab1690f81b65addf88",
-    "name": "PhantomSurgeRoot",
+    "wallet": "0xcad227d6d7e60bf7b207886819972ff506b5feed",
+    "name": "ScarletNebulaKnight",
     "tasks": 30
    }
   ],
-  "avgSubmissionsPerTask": 34.483116883116885,
-  "submissionsTotal": 53104
+  "avgSubmissionsPerTask": 34.37556561085973,
+  "submissionsTotal": 53179
  }
 }
