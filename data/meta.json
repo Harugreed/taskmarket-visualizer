@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T22:23:36.601Z",
+ "fetchedAt": "2026-11-26T23:23:37.886Z",
  "endpoints": [
   "/api/market/stats?chainId=…",
   "/api/stats/breakdowns?chainId=…",
@@ -12,7 +12,7 @@
   4217,
   8453
  ],
- "taskCount": 1988,
+ "taskCount": 2012,
  "failures": [],
  "note": "All figures are fetched server-side from api.taskmarket.dev. Amounts are in micro-units as reported (÷1,000,000 = USDC for USDC tasks). VERIFIED: /api/stats/platform-time-series and /api/stats/breakdowns return identical data for chainId=4217 and 8453, i.e. they are platform-wide; totals use one chain's series to avoid double-counting. Market stats, heatmaps, feeds and /api/tasks lists differ per chain."
 }

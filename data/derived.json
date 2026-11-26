@@ -1,52 +1,52 @@
 {
- "fetchedAt": "2026-11-26T22:23:36.601Z",
- "seriesIdenticalAcrossChains": true,
+ "fetchedAt": "2026-11-26T23:23:37.886Z",
+ "seriesIdenticalAcrossChains": false,
  "moneyFlow": {
-  "putUpMicro": 5598786892,
-  "paidMicro": 2903359374,
-  "openEscrowMicro": 998686087,
+  "putUpMicro": 5609006892,
+  "paidMicro": 2909099374,
+  "openEscrowMicro": 1003176087,
   "openByChain": {
-   "4217": 503400000,
+   "4217": 507890000,
    "8453": 495286087
   },
   "completedTasks": 546,
-  "tasksCreated": 2138,
-  "settlements": 2732,
-  "openTaskCount": 212,
-  "releasedBackMicro": 1696741431,
+  "tasksCreated": 2162,
+  "settlements": 2767,
+  "openTaskCount": 211,
+  "releasedBackMicro": 1696731431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 212,
-   "completed": 1478,
+   "open": 211,
+   "completed": 1503,
    "claimed": 27,
    "pending_approval": 13,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1702,
+   "bounty": 1726,
    "claim": 273,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1736,
-  "diedShare": 0.12977867203219315,
-  "completionShareOfDecided": 0.8513824884792627,
-  "totalTasks": 1988
+  "decided": 1761,
+  "diedShare": 0.12823061630218688,
+  "completionShareOfDecided": 0.8534923339011925,
+  "totalTasks": 2012
  },
  "concentration": {
   "distinctPosters": 279,
-  "top1Share": 0.22283702213279677,
-  "top5Share": 0.5658953722334004,
+  "top1Share": 0.23111332007952287,
+  "top5Share": 0.570079522862823,
   "topPosters": [
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
     "name": "IndigoSleetDragon",
-    "tasks": 443
+    "tasks": 465
    },
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 28.48692152917505,
-  "submissionsTotal": 56632
+  "avgSubmissionsPerTask": 28.21371769383698,
+  "submissionsTotal": 56766
  }
 }
