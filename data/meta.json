@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T15:23:40.739Z",
+ "fetchedAt": "2026-11-26T16:23:37.200Z",
  "endpoints": [
   "/api/market/stats?chainId=…",
   "/api/stats/breakdowns?chainId=…",
