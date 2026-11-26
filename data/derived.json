@@ -1,57 +1,57 @@
 {
- "fetchedAt": "2026-11-26T10:23:36.934Z",
+ "fetchedAt": "2026-11-26T11:23:37.299Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5574306892,
-  "paidMicro": 2897799374,
-  "openEscrowMicro": 976176087,
+  "putUpMicro": 5594516892,
+  "paidMicro": 2897999374,
+  "openEscrowMicro": 996196087,
   "openByChain": {
-   "4217": 482390000,
+   "4217": 502410000,
    "8453": 493786087
   },
   "completedTasks": 546,
-  "tasksCreated": 2003,
-  "settlements": 2600,
-  "openTaskCount": 206,
-  "releasedBackMicro": 1700331431,
+  "tasksCreated": 2025,
+  "settlements": 2620,
+  "openTaskCount": 209,
+  "releasedBackMicro": 1700321431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 206,
-   "completed": 1348,
+   "open": 209,
+   "completed": 1368,
    "pending_approval": 17,
    "claimed": 27,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1571,
+   "bounty": 1594,
    "claim": 272,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1606,
-  "diedShare": 0.13900862068965517,
-  "completionShareOfDecided": 0.8393524283935243,
-  "totalTasks": 1856
+  "decided": 1626,
+  "diedShare": 0.1373070782331027,
+  "completionShareOfDecided": 0.8413284132841329,
+  "totalTasks": 1879
  },
  "concentration": {
   "distinctPosters": 280,
-  "top1Share": 0.17618534482758622,
-  "top5Share": 0.537176724137931,
+  "top1Share": 0.17935071846726983,
+  "top5Share": 0.542309739222991,
   "topPosters": [
+   {
+    "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
+    "name": "IndigoSleetDragon",
+    "tasks": 337
+   },
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
     "name": "CosmicCanyonSentinel",
     "tasks": 327
-   },
-   {
-    "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
-    "name": "IndigoSleetDragon",
-    "tasks": 315
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 30.08674568965517,
-  "submissionsTotal": 55841
+  "avgSubmissionsPerTask": 29.773815859499734,
+  "submissionsTotal": 55945
  }
 }
