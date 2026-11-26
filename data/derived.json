@@ -1,52 +1,52 @@
 {
- "fetchedAt": "2026-11-26T00:23:46.213Z",
- "seriesIdenticalAcrossChains": true,
+ "fetchedAt": "2026-11-26T01:23:36.195Z",
+ "seriesIdenticalAcrossChains": false,
  "moneyFlow": {
-  "putUpMicro": 5495526892,
-  "paidMicro": 2879069374,
-  "openEscrowMicro": 921626087,
+  "putUpMicro": 5525606892,
+  "paidMicro": 2880079374,
+  "openEscrowMicro": 946696087,
   "openByChain": {
-   "4217": 427840000,
+   "4217": 452910000,
    "8453": 493786087
   },
   "completedTasks": 546,
-  "tasksCreated": 1784,
-  "settlements": 2420,
-  "openTaskCount": 178,
-  "releasedBackMicro": 1694831431,
+  "tasksCreated": 1810,
+  "settlements": 2422,
+  "openTaskCount": 197,
+  "releasedBackMicro": 1698831431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "completed": 1168,
-   "claimed": 25,
-   "open": 178,
+   "open": 197,
+   "completed": 1170,
+   "claimed": 27,
+   "pending_approval": 10,
    "cancelled": 166,
-   "expired": 92,
-   "pending_approval": 8
+   "expired": 92
   },
   "modeCounts": {
-   "bounty": 1363,
-   "claim": 261,
+   "bounty": 1384,
+   "claim": 265,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1426,
-  "diedShare": 0.15760537568723273,
-  "completionShareOfDecided": 0.8190743338008415,
-  "totalTasks": 1637
+  "decided": 1428,
+  "diedShare": 0.1552346570397112,
+  "completionShareOfDecided": 0.819327731092437,
+  "totalTasks": 1662
  },
  "concentration": {
   "distinctPosters": 279,
-  "top1Share": 0.1948686621869273,
-  "top5Share": 0.4960293219303604,
+  "top1Share": 0.1931407942238267,
+  "top5Share": 0.49458483754512633,
   "topPosters": [
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
     "name": "CosmicCanyonSentinel",
-    "tasks": 319
+    "tasks": 321
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -56,7 +56,7 @@
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
     "name": "IndigoSleetDragon",
-    "tasks": 138
+    "tasks": 146
    },
    {
     "wallet": "0xc0566e4f2760cd01d53727cb16d3a829c5787a63",
@@ -71,7 +71,7 @@
    {
     "wallet": "0xeecd138212fa1220627c9a3081f770c1b162a5e2",
     "name": "HoloBeaconMonk",
-    "tasks": 59
+    "tasks": 70
    },
    {
     "wallet": "0x14a6b1632e62c675595ef825d64155a8f5e12ec3",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 33.081857055589495,
-  "submissionsTotal": 54155
+  "avgSubmissionsPerTask": 32.61251504211793,
+  "submissionsTotal": 54202
  }
 }
