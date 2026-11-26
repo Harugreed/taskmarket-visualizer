@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-26T13:23:38.469Z",
+ "fetchedAt": "2026-11-26T14:23:37.184Z",
  "combined": [
   {
    "week": "2026-06-29",
@@ -109,7 +109,7 @@
   {
    "week": "2026-11-23",
    "distinctPosters": 22,
-   "tasks": 515
+   "tasks": 532
   }
  ],
  "tempo": [
@@ -141,7 +141,7 @@
   {
    "week": "2026-11-23",
    "distinctPosters": 21,
-   "tasks": 513
+   "tasks": 529
   }
  ],
  "base": [
@@ -253,7 +253,7 @@
   {
    "week": "2026-11-23",
    "distinctPosters": 2,
-   "tasks": 2
+   "tasks": 3
   }
  ],
  "method": "Distinct requester wallet addresses grouped by ISO week (Monday) of task createdAt, from paginated /api/tasks for both chains, deduplicated by task id."
