@@ -1,17 +1,17 @@
 {
- "fetchedAt": "2026-11-26T07:23:46.178Z",
+ "fetchedAt": "2026-11-26T08:23:36.825Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5573586892,
-  "paidMicro": 2897089374,
+  "putUpMicro": 5573826892,
+  "paidMicro": 2897329374,
   "openEscrowMicro": 976166087,
   "openByChain": {
    "4217": 482380000,
    "8453": 493786087
   },
   "completedTasks": 546,
-  "tasksCreated": 1931,
-  "settlements": 2529,
+  "tasksCreated": 1955,
+  "settlements": 2553,
   "openTaskCount": 205,
   "releasedBackMicro": 1700331431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
@@ -19,29 +19,29 @@
  "lifecycle": {
   "statusCounts": {
    "open": 205,
-   "completed": 1277,
+   "completed": 1301,
    "pending_approval": 15,
    "claimed": 29,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1499,
+   "bounty": 1523,
    "claim": 272,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1535,
-  "diedShare": 0.1446188340807175,
-  "completionShareOfDecided": 0.8319218241042345,
-  "totalTasks": 1784
+  "decided": 1559,
+  "diedShare": 0.1426991150442478,
+  "completionShareOfDecided": 0.8345093008338679,
+  "totalTasks": 1808
  },
  "concentration": {
   "distinctPosters": 280,
-  "top1Share": 0.18329596412556054,
-  "top5Share": 0.5184977578475336,
+  "top1Share": 0.18086283185840707,
+  "top5Share": 0.5248893805309734,
   "topPosters": [
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
@@ -51,7 +51,7 @@
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
     "name": "IndigoSleetDragon",
-    "tasks": 243
+    "tasks": 267
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 31.070627802690584,
-  "submissionsTotal": 55430
+  "avgSubmissionsPerTask": 30.74446902654867,
+  "submissionsTotal": 55586
  }
 }
