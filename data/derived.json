@@ -1,52 +1,52 @@
 {
- "fetchedAt": "2026-11-26T11:23:37.299Z",
+ "fetchedAt": "2026-11-26T12:23:38.270Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5594516892,
-  "paidMicro": 2897999374,
-  "openEscrowMicro": 996196087,
+  "putUpMicro": 5594706892,
+  "paidMicro": 2898199374,
+  "openEscrowMicro": 996176087,
   "openByChain": {
-   "4217": 502410000,
+   "4217": 502390000,
    "8453": 493786087
   },
   "completedTasks": 546,
-  "tasksCreated": 2025,
-  "settlements": 2620,
-  "openTaskCount": 209,
-  "releasedBackMicro": 1700321431,
+  "tasksCreated": 2044,
+  "settlements": 2640,
+  "openTaskCount": 207,
+  "releasedBackMicro": 1700331431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 209,
-   "completed": 1368,
+   "open": 207,
+   "completed": 1388,
    "pending_approval": 17,
    "claimed": 27,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1594,
+   "bounty": 1612,
    "claim": 272,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1626,
-  "diedShare": 0.1373070782331027,
-  "completionShareOfDecided": 0.8413284132841329,
-  "totalTasks": 1879
+  "decided": 1646,
+  "diedShare": 0.136004217185029,
+  "completionShareOfDecided": 0.8432563791008505,
+  "totalTasks": 1897
  },
  "concentration": {
   "distinctPosters": 280,
-  "top1Share": 0.17935071846726983,
-  "top5Share": 0.542309739222991,
+  "top1Share": 0.1871375856615709,
+  "top5Share": 0.5466526093832367,
   "topPosters": [
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
     "name": "IndigoSleetDragon",
-    "tasks": 337
+    "tasks": 355
    },
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 29.773815859499734,
-  "submissionsTotal": 55945
+  "avgSubmissionsPerTask": 29.555086979441224,
+  "submissionsTotal": 56066
  }
 }
