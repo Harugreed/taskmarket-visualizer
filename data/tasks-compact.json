@@ -1,7 +1,22 @@
 {
- "fetchedAt": "2026-11-27T21:23:47.670Z",
- "count": 2185,
+ "fetchedAt": "2026-11-27T22:23:39.988Z",
+ "count": 2186,
  "tasks": [
+  {
+   "id": "0x4cf5e6d34a73fd3c02bf4d079874a35b033e81ffd29cebe4af80a82430d87da5",
+   "chainId": 4217,
+   "ref": "TSK-6GD7WZQ1",
+   "requester": "0x5143eb92A456B8E4F932a002D2AbD5dFbAbBBbF0",
+   "requesterName": "RustedRidgeNexus",
+   "createdAt": "2026-11-27T22:19:24.545Z",
+   "expiryTime": "2026-12-04T22:19:22.745Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "10000000",
+   "submissions": 1,
+   "awards": 0,
+   "claimedBy": null
+  },
   {
    "id": "0x091189fdac1c5635b748e4b19e24875f0e25f632ef38a7a9c1553592cd2e0f06",
    "chainId": 4217,
@@ -13,7 +28,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 40,
+   "submissions": 42,
    "awards": 0,
    "claimedBy": null
   },
@@ -1798,7 +1813,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "40000000",
-   "submissions": 75,
+   "submissions": 77,
    "awards": 0,
    "claimedBy": null
   },
@@ -7828,7 +7843,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 63,
+   "submissions": 64,
    "awards": 0,
    "claimedBy": null
   },
@@ -7843,7 +7858,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 63,
+   "submissions": 64,
    "awards": 0,
    "claimedBy": null
   },
@@ -7948,7 +7963,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 61,
+   "submissions": 62,
    "awards": 0,
    "claimedBy": null
   },
@@ -10093,7 +10108,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 81,
+   "submissions": 82,
    "awards": 0,
    "claimedBy": null
   },
@@ -22483,7 +22498,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "12000000",
-   "submissions": 53,
+   "submissions": 56,
    "awards": 0,
    "claimedBy": null
   },
@@ -22558,7 +22573,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 42,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
