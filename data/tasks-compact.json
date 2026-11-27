@@ -1,7 +1,22 @@
 {
- "fetchedAt": "2026-11-27T16:23:36.632Z",
- "count": 2180,
+ "fetchedAt": "2026-11-27T17:23:39.070Z",
+ "count": 2182,
  "tasks": [
+  {
+   "id": "0x6a3a3252e10e8eb759f21b2510fd59d2cb4f37cc0f805d51283681d9ce1c4f0a",
+   "chainId": 4217,
+   "ref": "TSK-K16B1PXH",
+   "requester": "0x3095f71fa8CA38ed73400CF1E1785e76549049b7",
+   "requesterName": "SapphireKindleWalker",
+   "createdAt": "2026-11-27T17:19:26.577Z",
+   "expiryTime": "2026-11-28T17:19:24.680Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "5000000",
+   "submissions": 9,
+   "awards": 0,
+   "claimedBy": null
+  },
   {
    "id": "0xc051874eb63b216cd9d7601faecb02495d334b412e7c72a908d7da1878cf1cad",
    "chainId": 4217,
@@ -10,11 +25,11 @@
    "requesterName": "SapphireKindleWalker",
    "createdAt": "2026-11-27T16:22:13.986Z",
    "expiryTime": "2026-11-28T16:22:11.804Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 7,
-   "awards": 0,
+   "submissions": 38,
+   "awards": 10,
    "claimedBy": null
   },
   {
@@ -3688,7 +3703,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 29,
+   "submissions": 30,
    "awards": 0,
    "claimedBy": null
   },
@@ -6898,7 +6913,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2500000",
-   "submissions": 56,
+   "submissions": 57,
    "awards": 0,
    "claimedBy": null
   },
@@ -10048,7 +10063,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 80,
+   "submissions": 81,
    "awards": 0,
    "claimedBy": null
   },
@@ -10138,7 +10153,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 7,
+   "submissions": 8,
    "awards": 0,
    "claimedBy": null
   },
@@ -11128,7 +11143,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 84,
+   "submissions": 86,
    "awards": 0,
    "claimedBy": null
   },
@@ -12733,7 +12748,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 47,
+   "submissions": 48,
    "awards": 0,
    "claimedBy": null
   },
@@ -12988,7 +13003,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "20000000",
-   "submissions": 89,
+   "submissions": 90,
    "awards": 0,
    "claimedBy": null
   },
@@ -15703,7 +15718,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "100000",
-   "submissions": 70,
+   "submissions": 71,
    "awards": 0,
    "claimedBy": null
   },
@@ -22428,6 +22443,21 @@
    "claimedBy": null
   },
   {
+   "id": "0x7bd14c111ae956b7194d7259711a4f8142046eab20a3307a450eceb38727ccf1",
+   "chainId": 8453,
+   "ref": "TSK-G0BF2RVM",
+   "requester": "0x4781cbB722Db3b97952BC914315D6D9e15356f6E",
+   "requesterName": "MauveGustHerald",
+   "createdAt": "2026-11-27T16:27:09.778Z",
+   "expiryTime": "2026-11-30T16:27:06.673Z",
+   "status": "pending_approval",
+   "mode": "claim",
+   "reward": "10000000",
+   "submissions": 1,
+   "awards": 0,
+   "claimedBy": "0x0482d55307F198899358A0915600acbC5560fb96"
+  },
+  {
    "id": "0x61612e611de212f59b094ffd6c9e0fa6dd371c9c9adda28be5d4a8eaac6c4903",
    "chainId": 8453,
    "ref": "TSK-YZNHAS7K",
@@ -22438,7 +22468,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 13,
+   "submissions": 14,
    "awards": 0,
    "claimedBy": null
   },
@@ -22468,7 +22498,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 16,
+   "submissions": 17,
    "awards": 0,
    "claimedBy": null
   },
@@ -22483,7 +22513,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 41,
+   "submissions": 42,
    "awards": 0,
    "claimedBy": null
   },
@@ -22495,11 +22525,11 @@
    "requesterName": "GlassTempoScholar",
    "createdAt": "2026-11-23T11:23:33.438Z",
    "expiryTime": "2026-11-26T11:23:31.732Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "9000000",
    "submissions": 117,
-   "awards": 0,
+   "awards": 9,
    "claimedBy": null
   },
   {
