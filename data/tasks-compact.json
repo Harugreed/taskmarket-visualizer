@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-11-27T19:23:40.896Z",
- "count": 2184,
+ "fetchedAt": "2026-11-27T20:23:39.996Z",
+ "count": 2185,
  "tasks": [
   {
    "id": "0x091189fdac1c5635b748e4b19e24875f0e25f632ef38a7a9c1553592cd2e0f06",
@@ -13,7 +13,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 33,
+   "submissions": 36,
    "awards": 0,
    "claimedBy": null
   },
@@ -1423,7 +1423,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 58,
+   "submissions": 59,
    "awards": 0,
    "claimedBy": null
   },
@@ -7843,7 +7843,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 61,
+   "submissions": 62,
    "awards": 0,
    "claimedBy": null
   },
@@ -7858,7 +7858,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 66,
+   "submissions": 67,
    "awards": 0,
    "claimedBy": null
   },
@@ -22473,6 +22473,21 @@
    "claimedBy": null
   },
   {
+   "id": "0xd129353df1e15c5df5155b418a90454150656ef5f98dcd2ee21a1d5dbca6f37a",
+   "chainId": 8453,
+   "ref": "TSK-38ABGEH8",
+   "requester": "0x52Be7c3a3f6aD75CdCEfA44aFa95E73278D371A9",
+   "requesterName": "GlassTempoScholar",
+   "createdAt": "2026-11-27T19:28:35.431Z",
+   "expiryTime": "2026-11-30T19:28:33.646Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "12000000",
+   "submissions": 41,
+   "awards": 0,
+   "claimedBy": null
+  },
+  {
    "id": "0x7bd14c111ae956b7194d7259711a4f8142046eab20a3307a450eceb38727ccf1",
    "chainId": 8453,
    "ref": "TSK-G0BF2RVM",
@@ -22513,7 +22528,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 57,
+   "submissions": 58,
    "awards": 0,
    "claimedBy": null
   },
