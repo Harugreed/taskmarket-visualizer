@@ -1,7 +1,22 @@
 {
- "fetchedAt": "2026-11-27T15:23:45.267Z",
- "count": 2179,
+ "fetchedAt": "2026-11-27T16:23:36.632Z",
+ "count": 2180,
  "tasks": [
+  {
+   "id": "0xc051874eb63b216cd9d7601faecb02495d334b412e7c72a908d7da1878cf1cad",
+   "chainId": 4217,
+   "ref": "TSK-Z1CQZF7P",
+   "requester": "0x3095f71fa8CA38ed73400CF1E1785e76549049b7",
+   "requesterName": "SapphireKindleWalker",
+   "createdAt": "2026-11-27T16:22:13.986Z",
+   "expiryTime": "2026-11-28T16:22:11.804Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "5000000",
+   "submissions": 7,
+   "awards": 0,
+   "claimedBy": null
+  },
   {
    "id": "0xd843328fda7ef650d0a5e90864ef1e341dfb25d23e28636b495f3ed455e176ac",
    "chainId": 4217,
@@ -1738,7 +1753,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "40000000",
-   "submissions": 71,
+   "submissions": 73,
    "awards": 0,
    "claimedBy": null
   },
@@ -11518,7 +11533,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 59,
+   "submissions": 60,
    "awards": 0,
    "claimedBy": null
   },
@@ -11533,7 +11548,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 61,
+   "submissions": 62,
    "awards": 0,
    "claimedBy": null
   },
@@ -11953,7 +11968,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 59,
+   "submissions": 60,
    "awards": 0,
    "claimedBy": null
   },
@@ -11968,7 +11983,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 61,
+   "submissions": 62,
    "awards": 0,
    "claimedBy": null
   },
@@ -11983,7 +11998,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 60,
+   "submissions": 61,
    "awards": 0,
    "claimedBy": null
   },
@@ -12508,7 +12523,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "400000",
-   "submissions": 26,
+   "submissions": 27,
    "awards": 0,
    "claimedBy": null
   },
@@ -17023,7 +17038,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "130000",
-   "submissions": 99,
+   "submissions": 101,
    "awards": 0,
    "claimedBy": null
   },
@@ -17038,7 +17053,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "140000",
-   "submissions": 81,
+   "submissions": 83,
    "awards": 0,
    "claimedBy": null
   },
@@ -17068,7 +17083,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "150000",
-   "submissions": 89,
+   "submissions": 90,
    "awards": 0,
    "claimedBy": null
   },
@@ -22423,7 +22438,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 12,
+   "submissions": 13,
    "awards": 0,
    "claimedBy": null
   },
@@ -22438,7 +22453,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 56,
+   "submissions": 57,
    "awards": 0,
    "claimedBy": null
   },
@@ -22453,7 +22468,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 15,
+   "submissions": 16,
    "awards": 0,
    "claimedBy": null
   },
