@@ -1,47 +1,47 @@
 {
- "fetchedAt": "2026-11-27T17:23:39.070Z",
+ "fetchedAt": "2026-11-27T18:23:37.021Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5764306892,
-  "paidMicro": 3044939374,
-  "openEscrowMicro": 1012626087,
+  "putUpMicro": 5765806892,
+  "paidMicro": 3052439374,
+  "openEscrowMicro": 1006626087,
   "openByChain": {
-   "4217": 525340000,
+   "4217": 519340000,
    "8453": 487286087
   },
   "completedTasks": 555,
-  "tasksCreated": 2332,
-  "settlements": 3053,
-  "openTaskCount": 208,
+  "tasksCreated": 2333,
+  "settlements": 3056,
+  "openTaskCount": 206,
   "releasedBackMicro": 1706741431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 208,
-   "completed": 1675,
+   "completed": 1678,
+   "open": 206,
    "claimed": 27,
    "pending_approval": 14,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1895,
+   "bounty": 1896,
    "claim": 274,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1933,
-  "diedShare": 0.11824014665444546,
-  "completionShareOfDecided": 0.8665287118468702,
-  "totalTasks": 2182
+  "decided": 1936,
+  "diedShare": 0.11818598259276225,
+  "completionShareOfDecided": 0.8667355371900827,
+  "totalTasks": 2183
  },
  "concentration": {
   "distinctPosters": 280,
-  "top1Share": 0.27268560953253895,
-  "top5Share": 0.6012832263978002,
+  "top1Share": 0.27256069628950985,
+  "top5Share": 0.6014658726523133,
   "topPosters": [
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
@@ -51,7 +51,7 @@
    {
     "wallet": "0xc54fa531a11d73a8cc2be3ad6a6e764daae42ec3",
     "name": "CosmicCanyonSentinel",
-    "tasks": 362
+    "tasks": 363
    },
    {
     "wallet": "0x78656a8a0b11b0b3f7f82810db9849bb04d50d66",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 26.729147571035746,
-  "submissionsTotal": 58323
+  "avgSubmissionsPerTask": 26.73843334860284,
+  "submissionsTotal": 58370
  }
 }
