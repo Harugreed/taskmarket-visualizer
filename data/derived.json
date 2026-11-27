@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-27T13:23:38.879Z",
+ "fetchedAt": "2026-11-27T14:23:45.545Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
   "putUpMicro": 5744306892,
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 26.701239100504818,
-  "submissionsTotal": 58182
+  "avgSubmissionsPerTask": 26.715924736117486,
+  "submissionsTotal": 58214
  }
 }
