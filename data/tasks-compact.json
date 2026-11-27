@@ -1,7 +1,52 @@
 {
- "fetchedAt": "2026-11-27T22:23:39.988Z",
- "count": 2186,
+ "fetchedAt": "2026-11-27T23:23:39.184Z",
+ "count": 2190,
  "tasks": [
+  {
+   "id": "0xa3f5b7f45b5b93392856a3bdb03a19b3a4ec0a10d0e3d8b36b0bc74c3739e6bc",
+   "chainId": 4217,
+   "ref": "TSK-YPWCDGWN",
+   "requester": "0xEeCD138212Fa1220627C9A3081f770C1b162a5E2",
+   "requesterName": "HoloBeaconMonk",
+   "createdAt": "2026-11-27T22:44:21.835Z",
+   "expiryTime": "2026-11-30T22:44:19.942Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "5000000",
+   "submissions": 13,
+   "awards": 0,
+   "claimedBy": null
+  },
+  {
+   "id": "0x8a929d496075d9a666ec4ef0d28fa14d1e69ee2aa4a932d5e7ec4009d241408e",
+   "chainId": 4217,
+   "ref": "TSK-JD3SMSA6",
+   "requester": "0xEeCD138212Fa1220627C9A3081f770C1b162a5E2",
+   "requesterName": "HoloBeaconMonk",
+   "createdAt": "2026-11-27T22:44:09.064Z",
+   "expiryTime": "2026-11-30T22:44:07.076Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "5000000",
+   "submissions": 30,
+   "awards": 0,
+   "claimedBy": null
+  },
+  {
+   "id": "0xf098bd0835470d2bfe13bcc336c5695b14aaa8b062f08b0f9afe59ed7ef0f7ca",
+   "chainId": 4217,
+   "ref": "TSK-DESW2K9N",
+   "requester": "0xEeCD138212Fa1220627C9A3081f770C1b162a5E2",
+   "requesterName": "HoloBeaconMonk",
+   "createdAt": "2026-11-27T22:44:01.030Z",
+   "expiryTime": "2026-11-30T22:43:58.678Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "6000000",
+   "submissions": 26,
+   "awards": 0,
+   "claimedBy": null
+  },
   {
    "id": "0x4cf5e6d34a73fd3c02bf4d079874a35b033e81ffd29cebe4af80a82430d87da5",
    "chainId": 4217,
@@ -13,7 +58,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000000",
-   "submissions": 1,
+   "submissions": 6,
    "awards": 0,
    "claimedBy": null
   },
@@ -28,7 +73,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 42,
+   "submissions": 43,
    "awards": 0,
    "claimedBy": null
   },
@@ -7423,7 +7468,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 4,
+   "submissions": 5,
    "awards": 0,
    "claimedBy": null
   },
@@ -10198,7 +10243,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 8,
+   "submissions": 9,
    "awards": 0,
    "claimedBy": null
   },
@@ -11350,11 +11395,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:07:27.105Z",
    "expiryTime": "2026-11-26T20:07:25.477Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "6000000",
    "submissions": 66,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11365,11 +11410,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:07:17.013Z",
    "expiryTime": "2026-11-26T20:07:14.925Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "5000000",
    "submissions": 63,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11380,11 +11425,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:07:01.831Z",
    "expiryTime": "2026-11-26T20:06:59.988Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "5000000",
    "submissions": 67,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11395,11 +11440,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:06:53.393Z",
    "expiryTime": "2026-11-26T20:06:51.333Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "6000000",
    "submissions": 80,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11410,11 +11455,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:06:43.515Z",
    "expiryTime": "2026-11-26T20:06:40.680Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "8000000",
    "submissions": 57,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11425,11 +11470,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:06:34.480Z",
    "expiryTime": "2026-11-26T20:06:32.089Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "8000000",
    "submissions": 70,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11440,11 +11485,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:06:25.726Z",
    "expiryTime": "2026-11-26T20:06:23.520Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "7000000",
    "submissions": 65,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -11455,11 +11500,11 @@
    "requesterName": "HoloBeaconMonk",
    "createdAt": "2026-11-23T20:06:17.195Z",
    "expiryTime": "2026-11-26T20:06:14.952Z",
-   "status": "open",
+   "status": "completed",
    "mode": "bounty",
    "reward": "10000000",
    "submissions": 79,
-   "awards": 0,
+   "awards": 3,
    "claimedBy": null
   },
   {
@@ -22488,6 +22533,21 @@
    "claimedBy": null
   },
   {
+   "id": "0xccf63b863148f66659f0339bd666aa61cddf509fd812513bf08bf2d777c9ead9",
+   "chainId": 8453,
+   "ref": "TSK-DZXDQ4GA",
+   "requester": "0x7731314288a9d928439576A77711fFcc4B83FdfF",
+   "requesterName": "SaffronSlumberRonin",
+   "createdAt": "2026-11-27T23:08:30.017Z",
+   "expiryTime": "2026-11-30T23:08:28.360Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "5000000",
+   "submissions": 41,
+   "awards": 0,
+   "claimedBy": null
+  },
+  {
    "id": "0xd129353df1e15c5df5155b418a90454150656ef5f98dcd2ee21a1d5dbca6f37a",
    "chainId": 8453,
    "ref": "TSK-38ABGEH8",
@@ -22498,7 +22558,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "12000000",
-   "submissions": 56,
+   "submissions": 57,
    "awards": 0,
    "claimedBy": null
   },

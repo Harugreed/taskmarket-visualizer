@@ -1,47 +1,47 @@
 {
- "fetchedAt": "2026-11-27T22:23:39.988Z",
+ "fetchedAt": "2026-11-27T23:23:39.184Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5792806892,
-  "paidMicro": 3057439374,
-  "openEscrowMicro": 1028626087,
+  "putUpMicro": 5813806892,
+  "paidMicro": 3112439374,
+  "openEscrowMicro": 994626087,
   "openByChain": {
-   "4217": 529340000,
-   "8453": 499286087
+   "4217": 490340000,
+   "8453": 504286087
   },
   "completedTasks": 555,
-  "tasksCreated": 2336,
-  "settlements": 3066,
-  "openTaskCount": 208,
+  "tasksCreated": 2340,
+  "settlements": 3090,
+  "openTaskCount": 204,
   "releasedBackMicro": 1706741431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 208,
-   "completed": 1679,
+   "open": 204,
+   "completed": 1687,
    "claimed": 27,
    "pending_approval": 14,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1899,
+   "bounty": 1903,
    "claim": 274,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
-  "decided": 1937,
-  "diedShare": 0.11802378774016468,
-  "completionShareOfDecided": 0.8668043366029943,
-  "totalTasks": 2186
+  "decided": 1945,
+  "diedShare": 0.1178082191780822,
+  "completionShareOfDecided": 0.8673521850899742,
+  "totalTasks": 2190
  },
  "concentration": {
-  "distinctPosters": 281,
-  "top1Share": 0.2721866422689844,
-  "top5Share": 0.6006404391582799,
+  "distinctPosters": 282,
+  "top1Share": 0.271689497716895,
+  "top5Share": 0.5995433789954338,
   "topPosters": [
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
@@ -71,7 +71,7 @@
    {
     "wallet": "0xeecd138212fa1220627c9a3081f770c1b162a5e2",
     "name": "HoloBeaconMonk",
-    "tasks": 78
+    "tasks": 81
    },
    {
     "wallet": "0x14a6b1632e62c675595ef825d64155a8f5e12ec3",
@@ -94,7 +94,7 @@
     "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 26.766239707227815,
-  "submissionsTotal": 58511
+  "avgSubmissionsPerTask": 26.771689497716896,
+  "submissionsTotal": 58630
  }
 }
