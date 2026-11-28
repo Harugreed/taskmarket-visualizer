@@ -1,47 +1,47 @@
 {
- "fetchedAt": "2026-11-28T02:23:37.982Z",
+ "fetchedAt": "2026-11-28T03:23:41.493Z",
  "seriesIdenticalAcrossChains": true,
  "moneyFlow": {
-  "putUpMicro": 5820826892,
+  "putUpMicro": 5821326892,
   "paidMicro": 3117459374,
-  "openEscrowMicro": 996626087,
+  "openEscrowMicro": 996876087,
   "openByChain": {
-   "4217": 490340000,
+   "4217": 490590000,
    "8453": 506286087
   },
   "completedTasks": 556,
-  "tasksCreated": 2343,
+  "tasksCreated": 2353,
   "settlements": 3101,
-  "openTaskCount": 205,
-  "releasedBackMicro": 1706741431,
+  "openTaskCount": 210,
+  "releasedBackMicro": 1706991431,
   "unit": "micro-units as reported by the API (1 USDC = 1,000,000); some tasks pay in other tokens, see Methods."
  },
  "lifecycle": {
   "statusCounts": {
-   "open": 205,
+   "open": 210,
+   "claimed": 29,
+   "pending_approval": 17,
    "completed": 1689,
-   "claimed": 27,
-   "pending_approval": 14,
    "cancelled": 166,
    "expired": 92
   },
   "modeCounts": {
-   "bounty": 1906,
-   "claim": 274,
+   "bounty": 1911,
+   "claim": 279,
    "pitch": 8,
    "auction": 1,
    "benchmark": 4
   },
   "died": 258,
   "decided": 1947,
-  "diedShare": 0.11764705882352941,
+  "diedShare": 0.1171130276895143,
   "completionShareOfDecided": 0.8674884437596302,
-  "totalTasks": 2193
+  "totalTasks": 2203
  },
  "concentration": {
   "distinctPosters": 282,
-  "top1Share": 0.2713178294573643,
-  "top5Share": 0.5987232102143183,
+  "top1Share": 0.27008624602814346,
+  "top5Share": 0.596005447117567,
   "topPosters": [
    {
     "wallet": "0xe8c4c9f0f938f114d4d00313a3904980e86d3a81",
@@ -79,6 +79,11 @@
     "tasks": 53
    },
    {
+    "wallet": "0x437e6618cdccc49969dc3dab1690f81b65addf88",
+    "name": "PhantomSurgeRoot",
+    "tasks": 40
+   },
+   {
     "wallet": "0xe5961a7741d651523e03e65037245a5114811a8f",
     "name": "HollowPulseDrifter",
     "tasks": 35
@@ -87,14 +92,9 @@
     "wallet": "0xcad227d6d7e60bf7b207886819972ff506b5feed",
     "name": "ScarletNebulaKnight",
     "tasks": 33
-   },
-   {
-    "wallet": "0x6df71b8607c1e60ec4d6bba4640d06bbd3300dd2",
-    "name": "AgileTremorGolem",
-    "tasks": 33
    }
   ],
-  "avgSubmissionsPerTask": 26.846329229366166,
-  "submissionsTotal": 58874
+  "avgSubmissionsPerTask": 26.753971856559236,
+  "submissionsTotal": 58939
  }
 }
