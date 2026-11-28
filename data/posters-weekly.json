@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-27T23:23:39.184Z",
+ "fetchedAt": "2026-11-28T00:25:52.428Z",
  "combined": [
   {
    "week": "2026-06-29",
@@ -109,7 +109,7 @@
   {
    "week": "2026-11-23",
    "distinctPosters": 25,
-   "tasks": 792
+   "tasks": 793
   }
  ],
  "tempo": [
@@ -141,7 +141,7 @@
   {
    "week": "2026-11-23",
    "distinctPosters": 21,
-   "tasks": 784
+   "tasks": 785
   }
  ],
  "base": [
