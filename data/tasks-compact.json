@@ -1,6 +1,6 @@
 {
- "fetchedAt": "2026-11-28T05:23:40.082Z",
- "count": 2203,
+ "fetchedAt": "2026-11-28T06:23:39.610Z",
+ "count": 2204,
  "tasks": [
   {
    "id": "0x0cd99511c34a21071a389f973aa3e6c675e03a0a33336bb1754fa6cc26a74d9c",
@@ -193,7 +193,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 32,
+   "submissions": 33,
    "awards": 0,
    "claimedBy": null
   },
@@ -238,7 +238,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000000",
-   "submissions": 18,
+   "submissions": 20,
    "awards": 0,
    "claimedBy": null
   },
@@ -7978,7 +7978,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 65,
+   "submissions": 66,
    "awards": 0,
    "claimedBy": null
   },
@@ -13018,7 +13018,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 49,
+   "submissions": 50,
    "awards": 0,
    "claimedBy": null
   },
@@ -13048,7 +13048,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 42,
+   "submissions": 43,
    "awards": 0,
    "claimedBy": null
   },
@@ -13273,7 +13273,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "20000000",
-   "submissions": 90,
+   "submissions": 91,
    "awards": 0,
    "claimedBy": null
   },
@@ -13288,7 +13288,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "50000000",
-   "submissions": 110,
+   "submissions": 111,
    "awards": 0,
    "claimedBy": null
   },
@@ -14083,7 +14083,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 66,
+   "submissions": 67,
    "awards": 0,
    "claimedBy": null
   },
@@ -22713,6 +22713,21 @@
    "claimedBy": null
   },
   {
+   "id": "0xb5d23f166db7fe504d5537c2a31192c8eff4b91469c57c75154839bbb66cf180",
+   "chainId": 8453,
+   "ref": "TSK-F4W62EA1",
+   "requester": "0x29fE93e59421B3390b1ED058cDb916A9097e1061",
+   "requesterName": "VirtualDuskArrow",
+   "createdAt": "2026-11-28T05:24:25.877Z",
+   "expiryTime": "2026-12-01T05:24:24.352Z",
+   "status": "open",
+   "mode": "bounty",
+   "reward": "3000000",
+   "submissions": 14,
+   "awards": 0,
+   "claimedBy": null
+  },
+  {
    "id": "0x654451aaf39317851a4695eefc6c379bf0c5264e25518b58894893dc48d645a7",
    "chainId": 8453,
    "ref": "TSK-JYV8C29K",
@@ -22723,7 +22738,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 86,
+   "submissions": 87,
    "awards": 0,
    "claimedBy": null
   },
@@ -22738,7 +22753,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 30,
+   "submissions": 33,
    "awards": 0,
    "claimedBy": null
   },
