@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-28T07:23:36.463Z",
+ "fetchedAt": "2026-11-28T08:23:40.955Z",
  "count": 2204,
  "tasks": [
   {
@@ -163,7 +163,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 36,
+   "submissions": 38,
    "awards": 0,
    "claimedBy": null
   },
@@ -193,7 +193,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 33,
+   "submissions": 35,
    "awards": 0,
    "claimedBy": null
   },
@@ -208,7 +208,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "5000000",
-   "submissions": 54,
+   "submissions": 56,
    "awards": 0,
    "claimedBy": null
   },
@@ -223,7 +223,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "6000000",
-   "submissions": 60,
+   "submissions": 62,
    "awards": 0,
    "claimedBy": null
   },
@@ -238,7 +238,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000000",
-   "submissions": 20,
+   "submissions": 21,
    "awards": 0,
    "claimedBy": null
   },
@@ -12253,7 +12253,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "420000",
-   "submissions": 64,
+   "submissions": 65,
    "awards": 0,
    "claimedBy": null
   },
@@ -13048,7 +13048,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "10000",
-   "submissions": 43,
+   "submissions": 44,
    "awards": 0,
    "claimedBy": null
   },
@@ -22723,7 +22723,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "3000000",
-   "submissions": 19,
+   "submissions": 28,
    "awards": 0,
    "claimedBy": null
   },
@@ -22738,7 +22738,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "2000000",
-   "submissions": 87,
+   "submissions": 89,
    "awards": 0,
    "claimedBy": null
   },
@@ -22768,7 +22768,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "12000000",
-   "submissions": 73,
+   "submissions": 76,
    "awards": 0,
    "claimedBy": null
   },
@@ -22798,7 +22798,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 19,
+   "submissions": 21,
    "awards": 0,
    "claimedBy": null
   },
@@ -22813,7 +22813,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "500000",
-   "submissions": 59,
+   "submissions": 60,
    "awards": 0,
    "claimedBy": null
   },
@@ -22828,7 +22828,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 20,
+   "submissions": 21,
    "awards": 0,
    "claimedBy": null
   },
@@ -22843,7 +22843,7 @@
    "status": "open",
    "mode": "bounty",
    "reward": "1000000",
-   "submissions": 44,
+   "submissions": 45,
    "awards": 0,
    "claimedBy": null
   },
